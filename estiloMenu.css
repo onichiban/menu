@@ -1,0 +1,60 @@
+body{
+	background-color: rgb(243,133,252);
+}
+
+
+.cajaBot{
+	background-color: white;
+	margin: 90px auto;
+	width: 300px;
+	height: 300px;
+	border-radius: 8px;
+}
+
+.boton{
+	border-radius: 7%;
+	height: 40px;
+	width: 40px;
+	background-color: rgb(185,2,84);
+	margin-left: 15px;
+	margin-top: 10px;
+	padding-left: 15px; 
+	color: white;	
+	text-align: left;
+	border-color: transparent;
+}
+
+.lab{
+	text-align: left;
+	margin: 0 auto;
+	padding: 15px;
+
+}
+
+.col, .ceroB{
+	float: left;
+	padding: 10px;
+	text-align: center;
+}
+
+.row{
+	width: 100%;
+	overflow: hidden;
+}
+
+.ceroB {
+	width: 130px;
+}
+
+
+.barraArriba{
+	color: white;
+    font-size: 30px;
+    background-color: rgb(185,2,84);
+    padding: 5px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    height: 40px;
+    width: 290px;
+}
+
